@@ -1,6 +1,18 @@
 #⚡ Caveat on Dropping Tables with Relations
+This project demonstrates proper techniques for managing database tables that have foreign key relationships, specifically focusing on how to safely drop tables that are being referenced by other tables.
 
+---
+# Key Concepts
+Foreign Key Constraints
+When dropping tables that are referenced by foreign keys in other tables, you must either:
 
+1. Drop the dependent tables first
+
+2. Temporarily disable foreign key checks
+
+3. Use CASCADE options (where supported)
+
+--
 ## 🧠 Learning Objectives
 Understand how to drop a table that is referenced by another table using a foreign key.
 
