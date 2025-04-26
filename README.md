@@ -1,5 +1,6 @@
 #⚡ Caveat on Dropping Tables with Relations
 
+
 ## 🧠 Learning Objectives
 Understand how to drop a table that is referenced by another table using a foreign key.
 
