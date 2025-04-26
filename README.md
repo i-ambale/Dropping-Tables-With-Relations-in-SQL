@@ -2,7 +2,7 @@
 This project demonstrates proper techniques for managing database tables that have foreign key relationships, specifically focusing on how to safely drop tables that are being referenced by other tables.
 
 ---
-# Key Concepts
+## Key Concepts
 Foreign Key Constraints
 When dropping tables that are referenced by foreign keys in other tables, you must either:
 
