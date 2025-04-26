@@ -84,6 +84,7 @@ SET FOREIGN_KEY_CHECKS = 1;
 ```
 ---
 👨‍💻 Author: Ibrahim Ambale
+
 Developed as part of ExploreAI Academy coursework.
 
 Crafted with care using MySQL, Python, and best database practices.
